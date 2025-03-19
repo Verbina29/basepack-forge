@@ -79,6 +79,11 @@ hash = "b4deac71d5d0e7b62e414b11889661c78ec88c0c3318e073b9e993251582c77b"
 metafile = true
 
 [[files]]
+file = "mods/cant-sleep-clowns-will-eat-me.pw.toml"
+hash = "798c1d1d72e6945562e14a5c9c751942cf3cd01bd3bf6b412f3b10d5d5e29530"
+metafile = true
+
+[[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
 metafile = true
